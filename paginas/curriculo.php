@@ -15,13 +15,6 @@
     <hr>
     <div class="main">
 
-        <div class="caminho">
-            <ul>
-                <li>Home</li>
-                <li>&gt;</li>
-                <li>Currículo</li>
-            </ul>
-        </div>
         <h1>Currículo</h1>
 
         <h2>Dados Pessoais</h2>

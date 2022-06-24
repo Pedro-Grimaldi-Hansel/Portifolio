@@ -16,13 +16,6 @@
     <hr>
     <div class="main">
 
-        <div class="caminho">
-            <ul>
-                <li>Home</li>
-                <li>&gt;</li>
-                <li>Contato</li>
-            </ul>
-        </div>
 
         <div class="Contato_titulo">
             <h1>Contato</h1>

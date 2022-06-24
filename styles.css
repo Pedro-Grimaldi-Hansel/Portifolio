@@ -41,11 +41,12 @@ ul a{
 .link_contato{
     display: flex;
     align-items: center;
-    margin-right: 50px;
+
     text-align: right;
     height: 50px;
 }
 .link_contato a{
+    margin-right: 45px;
     color: #DAD7CD;
     text-decoration: none;
 }

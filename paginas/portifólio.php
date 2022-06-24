@@ -13,14 +13,9 @@
 
 <body>
     <hr>
-    <div class="caminho">
-        <ul>
-            <li>Home</li>
-            <li>&gt;</li>
-            <li>Portifólio</li>
-        </ul>
+    <div class="main">
+        <p>Pagina em contrução</p>
     </div>
-
 </body>
 
 </html>
