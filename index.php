@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="..\styles.css">
 </head>
 <body>
-    <hr width="95%" >
+    <hr>
 	<div class="container-int">
 
             <div class="foto_de_perfil">

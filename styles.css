@@ -9,6 +9,9 @@ background: linear-gradient(41deg, rgba(42,125,76,1) 1%, rgba(44,98,54,1) 50%, r
     color:#DAD7CD;
     font-family: Arial, Helvetica, sans-serif;
 }
+hr{
+    width: 98%;
+}
 ul a{
     color:#DAD7CD;
     text-decoration: none;
@@ -17,7 +20,7 @@ ul a{
     color: #DAD7CD;
     display: flex;
     justify-content: space-between;
-    height: 70px;
+    height: 50px;
     font-size: 20px;
 }
 .nav_bar ul{
@@ -25,23 +28,25 @@ ul a{
     list-style: none;
     padding-left: 0px;
     text-align: right;
-    height: 70px;
+    height: 50px;
 }
 .nav_bar li{
     display: inline-block;
     padding-left: 45px;
-    line-height: 70px;
+    line-height: 50px;
 }
 .itens_esquerda{
     text-align: left;   
 }
 .link_contato{
-    margin-top: 0px;      
-    padding-left: 0px;
+    display: flex;
+    align-items: center;
+    margin-right: 50px;
     text-align: right;
-    height: 70px;
+    height: 50px;
 }
 .link_contato a{
+    color: #DAD7CD;
     text-decoration: none;
 }
 .container-int{
