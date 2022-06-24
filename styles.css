@@ -4,7 +4,8 @@ html,body{
     font-size: 0px;
 }
 body{
-    background-color:#344E41;
+    background: rgb(42,125,76);
+background: linear-gradient(41deg, rgba(42,125,76,1) 1%, rgba(44,98,54,1) 50%, rgba(59,98,78,1) 100%);
     color:#DAD7CD;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -35,7 +36,7 @@ ul a{
     text-align: left;   
 }
 .link_contato{
-    margin-top: 0px;  
+    margin-top: 0px;      
     padding-left: 0px;
     text-align: right;
     height: 70px;

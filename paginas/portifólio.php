@@ -12,7 +12,7 @@
 </head>
 
 <body>
-    
+    <hr width="95%" >
     <div class="caminho">
         <ul>
             <li>Home</li>
