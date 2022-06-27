@@ -70,6 +70,10 @@
 
         <p>Capacidade de desenvolver projetos Back-end usando a linguagem PHP, para a interação do Front-End com o banco de dados por meio 
             de CRUD's e utilização de Rotas por exemplo.</p>
+        
+        <h3>JavaScript:</h3>
+
+        <p>Base solida em JavaScript e capacidade de usar a linguagem nos desenvolvimentos Front-End e Back-End.</p>
 
         <h3>C/C++:</h3>
 
@@ -91,14 +95,6 @@
 
         <p>Projetista na <a href="https://www.instagram.com/codejr/" target="_blank">Code Empresa Jr.</a>, em Juiz de Fora.
         </p>
-
-        <h2>Contato</h2>
-        <hr>
-
-        <p>Email: pedroghansel@gmail.com</p>
-        <p>Celular: +55(24)999449717</p>
-        <p><a href="https://www.instagram.com/pedro_grimaldi_hansel/" target="_blank">Instagram</a></p>
-        <p><a href="https://www.linkedin.com/in/pedro-grimaldi-hansel-54b851217/" target="_blank">LinkedIn</a></p>
 
         <div class="voltar_ao_inicio">
             <p><a
