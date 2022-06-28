@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -11,7 +9,7 @@
     <link rel="stylesheet" href="..\styles.css">
 </head>
 <body>
-<?php require 'nav_bar.php'; ?>
+    <?php require 'nav_bar.php'; ?>
     <hr>
 	<div class="container-int">
 
@@ -28,7 +26,7 @@
 			</div>
     </div>
     
-    <div style="display: inline_block" align="center"><br>
+    <div class="icons_container" style="display: inline_block" align="center"><br>
         <img align="center" alt="Pedro-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
         <img align="center" alt="Pedro-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
         <img align="center" alt="Pedro-C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
@@ -37,6 +35,7 @@
         <img align="center" alt="Pedro-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
         <img align="center" alt="Pedro-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
     </div>
+
 
 </body>
 </html>

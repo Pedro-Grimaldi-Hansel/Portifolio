@@ -2,9 +2,9 @@ html,body{
     margin: 0px;
     padding: 0px;
     font-size: 0px;
+    height: 100%;
 }
 body{
-    background: rgb(42,125,76);
     background: linear-gradient(40deg, rgba(42,125,76,1) 1%, rgba(44,98,54,1) 50%, rgba(59,98,78,1) 100%);
     color:#DAD7CD;
     font-family: Arial, Helvetica, sans-serif;
@@ -62,6 +62,9 @@ ul a{
 .container-int h1 span{
     color: #A3B18A;  
     display: block;  
+}
+.icons_container{
+    margin-bottom: 50px;
 }
 .Titulo_de_introducao{
     vertical-align: top;
