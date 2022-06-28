@@ -1,4 +1,4 @@
-<?php require 'nav_bar.php'; ?>
+
 
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="..\styles.css">
 </head>
 <body>
+<?php require 'nav_bar.php'; ?>
     <hr>
 	<div class="container-int">
 
