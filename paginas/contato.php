@@ -25,22 +25,31 @@
         <p>pedroghansel@gmail.com</p>
         <h2>Celular:</h2>
         <p>+55(24)999449717</p>
+        <h2>Links para contato:</h2>
         <div class="redes_sociais">
+            <div class="gmail">
+                <a href="mailto:pedroghansel@gmail.com" target="_blanck">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"
+                 alt="isa56" height="40" width="40" /></a></a>
+            </div>
 
-            <h2>Instagram:</h2>
-            <p><a href="https://www.instagram.com/pedro_grimaldi_hansel/" target="_blank">
-            <i align="center" alt="Pedro-Git" height="40" width="40" class="fa-brands fa-instagram"></i></a></p>
+            <div class="instagram">
+                <a href="https://www.instagram.com/pedro_grimaldi_hansel/" target="_blank">
+                <img alt="Pedro-Git" height="40" width="40"
+                src="https://feronconi.com.br/wp-content/uploads/2019/07/instagram-new-2016-logo-4773FE3F99-seeklogo.com_.png"/></a>
+            </div>
 
-            <h2>LinkedIn:</h2>
-            <p><a href="https://www.linkedin.com/in/pedro-grimaldi-hansel-54b851217/" target="_blank">
-            <img align="center" alt="Pedro-Git" height="40" width="40"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a></p>
+            <div class="linkedin">
+                <a href="https://www.linkedin.com/in/pedro-grimaldi-hansel-54b851217/" target="_blank">
+                <img alt="Pedro-Git" height="40" width="40"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
+            </div>
 
-            <h2>Github:</h2>
-            <p><a href="https://github.com/Pedro-Grimaldi-Hansel">
-            <img align="center" alt="Pedro-Git" height="40" width="40" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a></p>
-            
+            <div class="github">
+            <a href="https://github.com/Pedro-Grimaldi-Hansel" target="_blank">
+            <img alt="Pedro-Git" height="40" width="40" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a>
+            </div>
         </div>
     </div>
 

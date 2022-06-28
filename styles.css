@@ -56,7 +56,7 @@ ul a{
     font-size: 16px;
 }
 .container-int h1{
-    font-size: 40px;
+    font-size: 45px;
 }
 .container-int h2 a{
     color: #DAD7CD;   
@@ -85,7 +85,7 @@ ul a{
     padding-right: 20px; 
 }                
 .caminho{
-    font-size: 16px;
+    font-size: 18px;
     height: 40px;    
 }
 .caminho ul{
@@ -107,20 +107,20 @@ ul a{
     padding-right: 20px; 
 }
 .main h2{
-    font-size: 30px;
+    font-size: 32px;
     color: #A3B18A;  
     padding-left: 40px;
     padding-right: 40px;
     margin-bottom: 0px;
 }    
 .main h3{
-    font-size: 20px;
+    font-size: 22px;
     color: #A3B18A;
     padding-left: 50px; 
     padding-right: 50px;  
 }
 .main p{
-    font-size: 16px;
+    font-size: 18px;
     line-height: 20px;
     padding-left: 50px;
     padding-right: 50px;
@@ -130,6 +130,13 @@ ul a{
 }
 .Contato_titulo h1{
     margin-bottom: 0px;
+}
+.redes_sociais{
+    display: flex;
+    justify-content: flex-start;
+    gap: 20px;
+    margin-left: 70px;
+    margin-top: 10px;
 }
 @media ( max-width: 1024px){
     .foto_de_perfil img{
