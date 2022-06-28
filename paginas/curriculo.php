@@ -1,5 +1,3 @@
-<?php require '../nav_bar.php'; ?>
-
 <!DOCTYPE html>
 <html lang="pt-br">
 
@@ -12,9 +10,12 @@
 </head>
 
 <body>
+    <div class="body_curriculo"> 
+    <?php require '../nav_bar.php'; ?>
     <hr>
-    <div class="main">
 
+    <div class="main curriculo">
+        
         <h1>Currículo</h1>
 
         <h2>Dados Pessoais</h2>
@@ -103,7 +104,7 @@
         </div>
 
     </div>
-
+</div>
 
 </body>
 

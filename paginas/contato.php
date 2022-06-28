@@ -1,4 +1,4 @@
-<?php require '../nav_bar.php'; ?>
+
 
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -12,7 +12,7 @@
 </head>
 
 <body>
-
+    <?php require '../nav_bar.php'; ?>
     <hr>
     <div class="main">
 
