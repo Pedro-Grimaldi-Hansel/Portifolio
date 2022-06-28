@@ -99,7 +99,7 @@
 
         <div class="voltar_ao_inicio">
             <p><a
-                    href="..\curriculo\curriculo.html">
+                    href="curriculo.php">
                     Voltar ao início da página</a></p>
         </div>
 
