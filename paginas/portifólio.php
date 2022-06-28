@@ -15,7 +15,7 @@
     <?php require '../nav_bar.php'; ?>
     <hr>
     <div class="main">
-        <p>Pagina em contrução</p>
+        <p>Pagina em construção</p>
     </div>
 </body>
 
