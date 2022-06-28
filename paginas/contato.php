@@ -9,6 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pedro Grimaldi Hansel</title>
     <link rel="stylesheet" href="..\styles.css">
+    <script src="https://kit.fontawesome.com/cfceb302a2.js" crossorigin="anonymous"></script>
 </head>
 
 <body>
@@ -46,9 +47,15 @@
             </div>
 
             <div class="github">
-            <a href="https://github.com/Pedro-Grimaldi-Hansel" target="_blank">
-            <img alt="Pedro-Git" height="40" width="40" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a>
+                <a href="https://github.com/Pedro-Grimaldi-Hansel" target="_blank">
+                <img alt="Pedro-Git" height="40" width="40" 
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a>
+            </div>
+
+            <div class="whats">
+                <a href="https://api.whatsapp.com/send?phone=5524999449717" target="_blank">
+                <<img alt="Pedro-Git" height="40" width="40" 
+                src="https://seeklogo.com/images/W/whatsapp-logo-112413FAA7-seeklogo.com.png"/></a>
             </div>
         </div>
     </div>

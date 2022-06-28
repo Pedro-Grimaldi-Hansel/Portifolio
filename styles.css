@@ -163,6 +163,10 @@ ul a{
     margin-left: 70px;
     margin-top: 10px;
 }
+.whats{
+    height: 40px ;
+    width: 40px ;
+}
 @media ( max-width: 1024px){
     .foto_de_perfil img{
         width: 300px;
@@ -274,5 +278,6 @@ ul a{
     }
     .redes_sociais{
         margin-left: 40px;
+        gap: 10px;
     }
 }
