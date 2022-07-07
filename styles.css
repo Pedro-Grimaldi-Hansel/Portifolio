@@ -153,6 +153,9 @@ ul a{
 .voltar_ao_inicio{
     margin-top: 70px;
 }
+.voltar_ao_inicio a{
+    text-decoration: none;
+}
 .Contato_titulo h1{
     margin-bottom: 0px;
 }

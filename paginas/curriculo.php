@@ -41,8 +41,8 @@
         <h2>Sobre Mim</h2>
         <hr>
 
-        <p>Atualmente estou cursando a graduação em ciencias da computação pela UFJF e sou Projetista na Code Empresa Jr.
-        </p>
+        <p>Atualmente estou cursando a graduação em ciencias da computação
+        pela UFJF e sou projetista, acessor do departamento comercial e acessor do departamento de projetos na Code Empresa Jr.</p>
 
         <h2>Educação</h2>
         <hr>
@@ -57,6 +57,10 @@
 
         <p>Ensino médio, <a href="http://www.colegioalaor.com.br/" target="_blank">Colégio Alaor.</a> </p>
 
+        <h3>Curso de ingles</h3>
+
+        <p>Formação completa no curso de ingles CNA.</p>
+
         <h2>Habilidades</h2>
         <hr>
         <h3>Comunicação:</h3>
@@ -65,7 +69,7 @@
 
         <h3>Front-End:</h3>
 
-        <p>Capacidade de desenvolver projetos Front-end usando as linguagens HTML e CSS.</p>
+        <p>Capacidade de desenvolver projetos Front-end usando as linguagens HTML e CSS e uso de frameworks como por exemplo Bootstraps.</p>
 
         <h3>Back-End:</h3>
 
@@ -94,13 +98,12 @@
 
         <h3>2022-Em andamento</h3>
 
-        <p>Projetista na <a href="https://www.instagram.com/codejr/" target="_blank">Code Empresa Jr.</a>, em Juiz de Fora.
+        <p>Projetista, acessor do departamento comercial e acessor do departamento de projetos na 
+            <a href="https://www.instagram.com/codejr/" target="_blank">Code Empresa Jr.</a>, em Juiz de Fora-MG.
         </p>
 
         <div class="voltar_ao_inicio">
-            <p><a
-                    href="curriculo.php">
-                    Voltar ao início da página</a></p>
+            <p><a href="curriculo.php">Voltar ao início da página</a></p>
         </div>
 
     </div>

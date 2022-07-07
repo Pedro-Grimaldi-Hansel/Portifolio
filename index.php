@@ -22,7 +22,7 @@
 			    <h2>Estudante de Graduação em <a href="https://www2.ufjf.br/ufjf/ensino/graduacao/ciencias-exatas/" target="_blank"
                 >Ciencias Exatas</a> e <a href="https://www.ufjf.br/cursocomputacao/" target="_blank"
                 >Ciencias da Computação</a> (UFJF).</h2>
-				<h2>Projetista na <a href="https://www.instagram.com/codejr/"target="_blank">Code Empresa Jr.</a></h2>
+				<h2>Projetista, acessor do departamento comercial e departamentos projetos na <a href="https://www.instagram.com/codejr/"target="_blank">Code Empresa Jr.</a></h2>
 			</div>
     </div>
     
