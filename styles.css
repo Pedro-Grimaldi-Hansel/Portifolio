@@ -27,7 +27,6 @@ ul a{
     color: #DAD7CD;
     display: flex;
     justify-content: space-between;
-    height: 50px;
     font-size: 20px;
 }
 .link_navbar{
