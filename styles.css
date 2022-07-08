@@ -82,7 +82,7 @@ ul a{
     display: flex;
     justify-content: center;
     gap: 10px;
-    margin-bottom: 50px;
+    padding-bottom: 50px;
 }
 .icons{
     transition: all .2s ease-in-out; 
@@ -288,5 +288,10 @@ ul a{
     .redes_sociais{
         margin-left: 40px;
         gap: 10px;
+    }
+}
+@media ( max-width: 375px){
+    .icons_container{
+     gap: 5px;   
     }
 }
