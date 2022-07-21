@@ -11,9 +11,15 @@ body{
     color:#DAD7CD;
     font-family: Arial, Helvetica, sans-serif;
 }
+.body_home{
+    height: 100%;
+    background-color: rgba(44,98,54,1);
+    background-image: linear-gradient(40deg, rgba(42,125,76,1) 1%, rgba(44,98,54,1) 50%, rgba(59,98,78,1) 100%);
+    background-size: contain;
+}
 .body_curriculo{
     background-color: rgba(44,98,54,1);
-    background-image: linear-gradient(40deg, rgba(42,125,76,1), rgba(44,98,54,1), rgba(59,98,78,1));
+    background-image: linear-gradient(40deg, rgba(42,125,76,1) 1%, rgba(44,98,54,1) 50%, rgba(59,98,78,1) 100%);
     background-size: contain;
 }
 hr{

@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="..\styles.css">
 </head>
 <body>
-    <div class="body_curriculo">
+    <div class="body_home">
         <?php require 'nav_bar.php'; ?>
         <hr>
         <div class="container-int">
@@ -37,6 +37,5 @@
             <img class="icons" alt="Pedro-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
         </div>
     </div>
-
 </body>
 </html>
