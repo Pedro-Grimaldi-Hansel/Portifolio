@@ -41,7 +41,7 @@
         <h2>Sobre Mim</h2>
         <hr>
 
-        <p>Atualmente estou cursando a graduação em ciencias da computação
+        <p>Meu nome é Pedro, tenho 19 anos e atualmente estou cursando a graduação em ciencias da computação
         pela UFJF e sou projetista, acessor do departamento comercial e acessor do departamento de projetos na Code Empresa Jr.</p>
 
         <h2>Educação</h2>
